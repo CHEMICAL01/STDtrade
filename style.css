@@ -9,7 +9,7 @@ body {
 }
 
 .trade-calculator-trade-calculator71 {
-  background: #261245;
+  background: rgb(24, 24, 24);
   font-family: 'poppins';
   font-weight: 700;
   color: white;
@@ -57,7 +57,7 @@ body {
 }
 
 .add-button-trade-calculator71 {
-  background-color: #3b1f5f;
+  background-color: #1b1b1b;
   border: none;
   border-radius: 10px;
   font-family: 'poppins';
@@ -97,7 +97,7 @@ body {
 
 .popup-trade-calculator-71 {
   height: 80vh;
-  background-color: #261245;
+  background-color: rgb(24, 24, 24);
   padding: 20px;
   border: none;
   border-radius: 8px;
@@ -122,7 +122,7 @@ body {
 }
 
 .search-bar-trade-calculator71 {
-  background-color: #3b1f5f;
+  background-color: #1b1b1b;
   border: none;
   padding: 5px 15px;
   padding-left: 35px;
@@ -173,7 +173,7 @@ body {
 }
 
 .filter-button-trade-calculator71 {
-  background-color: #3b1f5f;
+  background-color: #1b1b1b;
   border: none;
   border-radius: 8px;
   color:white;
@@ -212,7 +212,7 @@ body {
 
 .result-trade-calculator71 {
   border: none;
-  background-color: #3b1f5f;
+  background-color: #1b1b1b;
   height: 170px;
   border-radius: 8px;
   overflow: hidden;
@@ -260,7 +260,7 @@ body {
 
 /* Track (background of scrollbar) */
 ::-webkit-scrollbar-track {
-  background: #0e0a23; /* Dark background */
+  background: #181818; /* Dark background */
   border-radius: 10px;
 }
 
@@ -294,7 +294,7 @@ body {
   font-family: poppins;
   font-size: 18px;
   padding: 5px;
-  background-color: #3b1f5f;
+  background-color: #1b1b1b;
 }
 
 .dropdown-trade-calculator71 {
@@ -402,7 +402,7 @@ body {
 }
 
 .red-button-trade-calculator71 {
-  background-color: #3b1f5f;
+  background-color: #1b1b1b;
   box-shadow: 0px 3px 5px 5px rgba(0, 0, 0, 0.096);
   color: rgb(255, 255, 255);
   font-family: poppins;
@@ -481,7 +481,7 @@ body {
   object-position: center;
   border-radius: 15px;
   border:none;
-  background-color: #3b1f5f;
+  background-color: #1b1b1b;
   box-shadow: 0px 3px 5px 5px rgba(0, 0, 0, 0.096);
 }
 
@@ -489,10 +489,10 @@ body {
   position: absolute;
   top: -30px;
   right: 0px;
-  background-color:#0e0a23;
+  background-color:#181818;
   padding: 5px 15px;
   border-radius: 100px;
-  border:none;
+  border: rgb(255, 255, 255) 2px solid;
 }
 
 .wumbo-trade-calculor71 {
